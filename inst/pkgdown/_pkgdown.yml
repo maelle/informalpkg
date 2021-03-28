@@ -1,0 +1,8 @@
+authors:
+  Maëlle Salmon:
+    href: https://masalmon.eu
+
+template:
+  bootstrap: 4
+  params:
+    bootswatch: minty
